@@ -1,6 +1,9 @@
 # invertedIndex y PageRank para búsqueda  
+
+Descripción del repositorio en "cloud busqueda.pdf".  
   
 Archivos:  
+
  /documentos/1.txt -> linea1: Título linea2: Abstract  
  /documentos/2.txt  
  /documentos/3.txt  
