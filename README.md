@@ -1,6 +1,6 @@
 # invertedIndex y PageRank para búsqueda  
 
-Descripción del repositorio en "cloud busqueda.pdf".  
+Descripción del repositorio en **"cloud_busqueda.pdf"**.  
   
 Archivos:  
 
