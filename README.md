@@ -1,7 +1,7 @@
 # invertedIndex y PageRank para búsqueda  
 
 **Descripción del repositorio en "cloud_busqueda.pdf"**.  
-  
+ <!-- ...
 Archivos:  
 
  /documentos/1.txt -> linea1: Título linea2: Abstract  
@@ -17,3 +17,4 @@ Archivos:
  /outputPageRank/caso/part-r-00000.txt -> lineai: 0.34 5 -> rank del documento 5 es 0.34, lineas ordenadas de rank menor a mayor para todos los documentos  
   
  -
+  --> 
