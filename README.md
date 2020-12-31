@@ -1,4 +1,4 @@
-# invertedIndex y PageRank para búsqueda  
+# Búsqueda de palabras en Abstracts con invertedIndex y PageRank
 
 **Descripción del repositorio en "cloud_busqueda.pdf"**.  
  <!-- ...
